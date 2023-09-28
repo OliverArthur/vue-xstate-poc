@@ -33,7 +33,7 @@ npm install -g pnpm
 Once you have PNPM installed, you can clone the project and install its dependencies by running the following commands:
 
 ```sh
-git clone https://github.com/your-username/vue-xstate-poc.git
+git clone https://github.com/oliverarthur/vue-xstate-poc.git
 cd vue-xstate-poc
 pnpm install
 ```
